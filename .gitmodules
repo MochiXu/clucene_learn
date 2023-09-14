@@ -2,3 +2,6 @@
 	path = contrib/clucene
 	url = https://github.com/apache/doris-thirdparty.git
 	branch = clucene
+[submodule "contrib/sse2neon"]
+	path = contrib/sse2neon
+	url = https://github.com/DLTcollab/sse2neon.git
