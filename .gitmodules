@@ -1,0 +1,4 @@
+[submodule "contrib/clucene"]
+	path = contrib/clucene
+	url = https://github.com/apache/doris-thirdparty.git
+	branch = clucene
